@@ -4,6 +4,16 @@
 </div>
 
 Valetudo is a cloud replacement for vacuum robots enabling local-only operation. It is not a custom firmware.<br/>
+
+**Dokterdok Fork Info**
+---
+This fork focuses on bugfixing and personal experiments specific to the Dreame X40 Ultra. When possible, I plan to merge upstream changes into it.
+---
+Changes: <br/>
+* 2024.09.03: Fixed Mop Dock Water Heating quirk: values can be changed now (d14928d)
+
+---
+
 Here's a diagram illustrating the core operation principle:
 
 [<img src="https://github.com/Hypfer/valetudo/raw/master/docs/_pages/general/img/operation_principle.png" height=450>](https://github.com/Hypfer/valetudo/raw/master/docs/_pages/general/img/operation_principle.png)
