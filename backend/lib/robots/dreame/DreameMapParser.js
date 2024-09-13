@@ -644,7 +644,8 @@ const OBSTACLE_TYPES = {
     "138": "Cable",
     "139": "Stain",
     "142": "Obstacle",
-    "158": "Pet"
+    "158": "Pet",
+    "201": "Furniture Leg"
 };
 
 /**
